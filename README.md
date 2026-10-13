@@ -43,6 +43,6 @@ An invoice-record management application being developed to demonstrate secure o
 
 I'm always exploring better ways to design, build, and deliver useful digital products.
 
-📫 Connect with me on LinkedIn: [Add your LinkedIn URL]
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/believe-francis-8311bb227
 
-🌐 Portfolio: [Add your portfolio URL if available]
+
